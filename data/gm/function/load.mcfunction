@@ -6,5 +6,5 @@ scoreboard objectives setdisplay sidebar Currency
 scoreboard objectives modify Currency displayname "Tix"
 
 # Trigger Scoreboards
-scoreboard objectives add display_balance trigger
-scoreboard objectives add currency_functions trigger
+scoreboard objectives add gm_balance trigger
+scoreboard objectives add gm_help trigger
