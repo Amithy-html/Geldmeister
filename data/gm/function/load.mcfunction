@@ -11,3 +11,5 @@ scoreboard objectives modify Currency displayname "Tix"
 # Trigger Scoreboards
 scoreboard objectives add gm_balance trigger
 scoreboard objectives add gm_help trigger
+scoreboard objectives add gm_withdraw trigger
+scoreboard objectives add gm_deposit trigger
