@@ -1,1 +1,0 @@
-tellraw @s ["",{text:"Your current balance is: $"},{score:{name:"@s",objective:"Currency"}}]

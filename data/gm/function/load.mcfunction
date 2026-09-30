@@ -1,6 +1,10 @@
+tellraw @p {text:"Geldmeister Datapack Loaded",italic:true,color:"gold"}
+
 # Primary Currency Scoreboard
 scoreboard objectives add Currency dummy
 scoreboard objectives setdisplay sidebar Currency
 scoreboard objectives modify Currency displayname "Tix"
 
+# Trigger Scoreboards
 scoreboard objectives add display_balance trigger
+scoreboard objectives add currency_functions trigger
