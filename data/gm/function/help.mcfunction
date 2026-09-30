@@ -7,4 +7,4 @@ tellraw @p ["",{text:"/trigger gm_balance",color:"blue"},{text:" - Display your 
 tellraw @p ["",{text:"/trigger gm_withdraw set #",color:"blue"},{text:" - Wiþdraw physical currency. Good for physical trades, cash prizes, etcetera."}]
 
 # FOOTER
-tellraw @p {text:"==== ====",color:"gold"}
+tellraw @p ["",{text:"==== ",color:"gold"},{text:"See GitHub Repo ",underlined:true,color:"dark_green",click_event:{action:"open_url",url:"https://github.com/Amithy-html/Geldmeister"}},{text:"====",color:"gold"}]
