@@ -1,0 +1,1 @@
+clear @s poisonous_potato[custom_data={currency:1}] 1

@@ -1,0 +1,1 @@
+give @s poisonous_potato[custom_data={currency:1},custom_name={"color":"gold","text":"¤1"},enchantment_glint_override=true,lore=["Physical currency, worþ ¤1, or 1/8 diamond."]] 1
