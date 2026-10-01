@@ -1,6 +1,6 @@
 # Add 0, So Player Has Entry
 scoreboard players add @s Currency 0
-scoreboard players add @s Power 0
+# scoreboard players add @s Power 0
 
 # If Player Has Non-Zero Amount of Currency
 execute unless entity @s[scores={Currency=0}] run tellraw @p ["",{text:"Geldmeister: ",color:"dark_green"},{text:"Your current balance is ¤"},{score:{name:"@s",objective:"Currency"},bold:true,color:"gold"}]
