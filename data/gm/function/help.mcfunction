@@ -9,4 +9,4 @@ tellraw @p ["",{text:"/trigger gm_withdraw set <amount>",color:"blue",click_even
 tellraw @p ["",{text:"/trigger gm_deposit set <amount>",color:"blue",click_event:{action:"suggest_command",command:"/trigger gm_deposit <amount>"}},{text:" - Deposit physical currency from your inventory."}]
 
 # FOOTER
-tellraw @p ["",{text:"==== ",color:"gold"},{text:"See GitHub Repo ",underlined:true,color:"dark_green",click_event:{action:"open_url",url:"https://github.com/Amithy-html/Geldmeister"}},{text:"====",color:"gold"}]
+tellraw @p ["",{text:"==== ",color:"gold"},{text:"See GitHub Repo ",underlined:true,color:"dark_green",click_event:{action:"open_url",url:"https://github.com/Amithy-html/Geldmeister"},hover_event:{action:"show_text",value:[{text:"Amithy-html/Geldmeister"}]}},{text:"====",color:"gold"}]
