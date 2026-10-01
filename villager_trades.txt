@@ -1,0 +1,78 @@
+
+=== Villager Trades
+=== Geldmeister
+=== Aspen S. C. (a.k.a Amithy-html)
+
+--- CURRENCY EXCHANGE
+¤8 --> 1 Diamond
+1 Diamond --> ¤8
+
+--- BASIC ROCKS
+¤1 --> 16 Bruchstein
+¤4 --> 64 Bruchstein
+¤1 --> 8 Stein
+¤8 --> 64 Stein
+¤1 --> 16 Granite
+¤4 --> 64 Granite
+¤1 --> 16 Diorite
+¤4 --> 64 Diorite
+¤1 --> 16 Andesite
+¤4 --> 64 Andesite
+
+--- COMMON SAPLINGS
+¤1 --> 16 Oak Saplings
+¤1 --> 16 Birch Saplings
+¤1 --> 16 Spruce Saplings
+¤1 --> 16 Dark Oak Saplings
+¤1 --> 16 Jungle Saplings
+¤1 --> 16 Acacia Saplings
+¤1 --> 16 Cherry Saplings
+¤1 --> 64 Bamboo
+--- RARE SAPLINGS (may be combined into one villager, or two separate villagers)
+¤1 --> 8 Pale Oak
+¤1 --> 8 Mangrove Propagule
+¤1 --> 8 Azalea
+¤1 --> 8 Warped Fungus
+¤1 --> 8 Crimson Fungus
+
+--- ENCHANTMENTS
+¤256 + 1 Book --> Mending
+¤256 + 1 Book --> Silk Touch
+
+--- SOILS
+¤1 --> 64 Dirt
+¤1 --> 32 Sand
+¤1 --> 32 Gravel
+¤1 --> 16 Mud
+
+--- FOOD
+¤1 --> 16 Baked Potato
+¤1 --> 16 Bread
+¤1 --> 8 Steak
+¤1 --> 8 Pork Chop
+¤1 --> 8 Cooked Mutton
+¤1 --> 8 Cooked Chicken
+¤1 --> 1 Cake
+¤1 --> 8 Cookie
+¤1 --> 2 Golden Carrot
+
+--- FOOD BULK
+¤3 --> 64 Baked Potato
+¤3 --> 64 Bread
+¤6 --> 64 Steak
+¤6 --> 64 Pork Chop
+¤6 --> 64 Cooked Mutton
+¤6 --> 64 Cooked Chicken
+¤6 --> 64 Cookie
+¤24 --> 64 Golden Carrot
+
+--- MOBMOB'S FARM ANIMALS (Mobmob's™ Farm Animals)
+¤32 --> 1 Cow Spawn Egg
+¤32 --> 1 Pig Spawn Egg
+¤32 --> 1 Sheep Spawn Egg
+¤24 --> 1 Chicken Spawn Egg
+¤64 + 1 Lighting Rod --> 1 "Super Pig™" Spawn Egg (a super pig spawn egg looks like an enchanted pig spawn egg, but it actually spawns a charged creeper meant to prank whoever decides to by þis) 
+
+--- Mister Colour
+¤1 --> 4 of Any Colour Dye
+Black, White, Light Grey, Dark Grey, Blue, Light Blue, Cyan, Green, Lime, Red, Pink, Magenta, Purple, Yellow, Orange, Brown
