@@ -3,10 +3,10 @@
 # HEADER
 tellraw @p ["",{text:"==== ",color:"gold"},{text:"Geldmeister ",bold:true,color:"dark_green"},{text:"Currency Options & Functions ====",color:"gold"}]
 
-tellraw @p ["",{text:"/trigger gm_help",color:"blue"},{text:" - It's þis, yo."}]
-tellraw @p ["",{text:"/trigger gm_balance",color:"blue"},{text:" - Display your current balance in þe chat. Also establishes your account if you don't have one already."}]
-tellraw @p ["",{text:"/trigger gm_withdraw set #",color:"blue"},{text:" - Wiþdraw physical currency. Good for physical trades, cash prizes, etcetera."}]
-tellraw @p ["",{text:"/trigger gm_deposit set #",color:"blue"},{text:" - Deposit physical currency from your inventory."}]
+tellraw @p ["",{text:"/trigger gm_help",color:"blue",click_event:{action:"suggest_command",command:"/trigger gm_help"}},{text:" - It's þis, yo."}]
+tellraw @p ["",{text:"/trigger gm_balance",color:"blue",click_event:{action:"suggest_command",command:"/trigger gm_balance"}},{text:" - Display your current balance in þe chat. Also establishes your account if you don't have one already."}]
+tellraw @p ["",{text:"/trigger gm_withdraw set <amount>",color:"blue",click_event:{action:"suggest_command",command:"/trigger gm_withdraw set <amount>"}},{text:" - Wiþdraw physical currency. Good for physical trades, cash prizes, etcetera."}]
+tellraw @p ["",{text:"/trigger gm_deposit set <amount>",color:"blue",click_event:{action:"suggest_command",command:"/trigger gm_deposit <amount>"}},{text:" - Deposit physical currency from your inventory."}]
 
 # FOOTER
 tellraw @p ["",{text:"==== ",color:"gold"},{text:"See GitHub Repo ",underlined:true,color:"dark_green",click_event:{action:"open_url",url:"https://github.com/Amithy-html/Geldmeister"}},{text:"====",color:"gold"}]
