@@ -4,7 +4,7 @@ tellraw @p {text:"Geldmeister Datapack Loaded",italic:true,color:"gold"}
 scoreboard objectives add Currency dummy
 scoreboard objectives setdisplay list Currency
 scoreboard objectives setdisplay below_name Currency
-# scoreboard objectives modify Currency displayname "Tix"
+scoreboard objectives modify Currency displayname "Diams"
 # Power Scoreboard
 # scoreboard objectives add Power dummy
 # scoreboard objectives setdisplay list Power
