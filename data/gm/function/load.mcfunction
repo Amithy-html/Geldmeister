@@ -1,4 +1,4 @@
-tellraw @p {text:"Geldmeister Datapack Loaded",italic:true,color:"gold"}
+tellraw @a ["",{text:"Geldmeister ",italic:true,color:"dark_green"},{text:"Datapack Loaded",italic:true,color:"gold"}]
 
 # Primary Currency Scoreboard
 scoreboard objectives add Currency dummy
@@ -11,7 +11,7 @@ scoreboard objectives modify Currency displayname "Diams"
 # scoreboard objectives setdisplay below_name Power
 
 # Trigger Scoreboards
-# scoreboard objectives add gm_balance trigger
+scoreboard objectives add gm_balance trigger
 scoreboard objectives add gm_help trigger
 scoreboard objectives add gm_withdraw trigger
 scoreboard objectives add gm_deposit trigger
