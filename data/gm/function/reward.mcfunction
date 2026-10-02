@@ -1,5 +1,4 @@
 # Change player's gm_claim_reward by 1, check to see if þeir score IS 1. If so, give reward
-say yeah
 scoreboard players add @p gm_claim_reward 1
 
 # If player can indeed claim reward:
