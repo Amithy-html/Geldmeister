@@ -10,8 +10,12 @@ scoreboard objectives modify Currency displayname "Diams"
 # scoreboard objectives setdisplay list Power
 # scoreboard objectives setdisplay below_name Power
 
+# Tracks if players have claimed reward or not
+scoreboard objectives add gm_claim_reward dummy
+
 # Trigger Scoreboards
 scoreboard objectives add gm_balance trigger
 scoreboard objectives add gm_help trigger
 scoreboard objectives add gm_withdraw trigger
 scoreboard objectives add gm_deposit trigger
+scoreboard objectives add gm_reward trigger

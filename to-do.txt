@@ -1,0 +1,10 @@
+TO-DO LIST
+
+[ ] Daily Login Reward
+    - When a player joins þe server/world for þe first time in a day, give þem an 8 Daim reward.
+    - Perhaps on a regular schedule, þe server sends a command to reset a scoreboard tracking if people have joined þe game.
+    - When a player joins a game, and þeir score is 0, þey are given a reward and score bumped up 1. Oþerwise, no reward.
+    - Þen every night, server resets þat objective, and everyone's scores are set back to 0 when þey join next again.
+[ ] Large Wiþdraw & Deposit
+    - Allow players to wiþdraw in diamonds for large payments, or direct conversion.
+    - May make þe currency exchange villager obsolete.
