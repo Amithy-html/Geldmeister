@@ -19,3 +19,5 @@ scoreboard objectives add gm_help trigger
 scoreboard objectives add gm_withdraw trigger
 scoreboard objectives add gm_deposit trigger
 scoreboard objectives add gm_reward trigger
+scoreboard objectives add gm_withdraw_diamonds trigger
+scoreboard objectives add gm_deposit_diamonds trigger
