@@ -4,7 +4,7 @@ tellraw @a ["",{text:"Geldmeister ",italic:true,color:"dark_green"},{text:"Datap
 scoreboard objectives add Currency dummy
 scoreboard objectives setdisplay list Currency
 scoreboard objectives setdisplay below_name Currency
-scoreboard objectives modify Currency displayname "Diams"
+scoreboard objectives modify Currency displayname "Dabloons"
 # Power Scoreboard
 # scoreboard objectives add Power dummy
 # scoreboard objectives setdisplay list Power
