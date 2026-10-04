@@ -1,8 +1,11 @@
 TO-DO LIST
 
-[ ] Fix Soils Villager Title
-    - Villager entity carries same name as spawn egg, "Soils Villager Spawn Egg"
 
+=== COMPLETED ===
+
+[X] Increase daily login reward from 8 Dabloons to 24 Dabloons (1 -> 3 Diamonds)
+[X] Fix Soils Villager Title
+    - Villager entity carries same name as spawn egg, "Soils Villager Spawn Egg"
 [X] Daily Login Reward
     - When a player joins þe server/world for þe first time in a day, give þem an 8 Daim reward.
     - Perhaps on a regular schedule, þe server sends a command to reset a scoreboard tracking if people have joined þe game.

@@ -2,8 +2,8 @@
 scoreboard players add @s gm_claim_reward 1
 
 # If player can indeed claim reward:
-execute if entity @s[scores={gm_claim_reward=1}] run scoreboard players add @s Currency 8
-execute if entity @s[scores={gm_claim_reward=1}] run tellraw @s ["",{text:"Geldmeister: ",color:"dark_green"},{text:"Daily login reward "},{text:"¤8",color:"gold"},{text:"! "},{text:"\"A diamond a day keeps þe poorly appareled porky poor people away!\"",italic:true,color:"gray"}]
+execute if entity @s[scores={gm_claim_reward=1}] run scoreboard players add @s Currency 24
+execute if entity @s[scores={gm_claim_reward=1}] run tellraw @s ["",{text:"Geldmeister: ",color:"dark_green"},{text:"Daily login reward "},{text:"¤24",color:"gold"},{text:"! "},{text:"\"A diamond a day keeps þe poorly appareled porky poor people away!\"",italic:true,color:"gray"}]
 execute if entity @s[scores={gm_claim_reward=1}] as @s run playsound block.note_block.chime master @p ~ ~ ~ 1 1 1
 
 # If player cannot claim reward:
