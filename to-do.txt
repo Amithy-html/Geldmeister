@@ -1,8 +1,12 @@
 TO-DO LIST
 
+=== YET-TO-DO ===
+
+[ ] Implement player and server levels/achievements
 
 === COMPLETED ===
 
+[X] Remove Dabloons being visible under nametags
 [X] Increase daily login reward from 8 Dabloons to 24 Dabloons (1 -> 3 Diamonds)
 [X] Fix Soils Villager Title
     - Villager entity carries same name as spawn egg, "Soils Villager Spawn Egg"
