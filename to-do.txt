@@ -15,6 +15,7 @@ TO-DO LIST
 
 === COMPLETED ===
 
+[X] gm:reset_reward doesn't work for offline players
 [X] Create installation instructions.
 [X] Remove Dabloons being visible under nametags
 [X] Increase daily login reward from 8 Dabloons to 24 Dabloons (1 -> 3 Diamonds)
