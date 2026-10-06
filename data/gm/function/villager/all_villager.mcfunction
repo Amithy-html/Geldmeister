@@ -1,6 +1,6 @@
 function gm:villager/basic_rocks
 function gm:villager/enchantments
-function gm:villager/exchange
+# function gm:villager/exchange
 function gm:villager/human_trader
 function gm:villager/mcvillager
 function gm:villager/mister_colour
